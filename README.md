@@ -1,7 +1,10 @@
 # IntroAI-Assignments
-A list of projects that I worked on for my Intro to Ai class at Rutgers
+A list of projects that I worked on for my Intro to Ai class at Rutgers. 
 
-full descriptions here: https://xintongemilywang.github.io/projects/index.html
+"The Pac-Man projects were developed at UC Berkeley for the education purpose of AI, and adapted by our course staff for Rutgers CS440. The projects apply an array of AI techniques to playing Pac-Man. However, these projects don’t focus on building AI for video games. Instead, they teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics."
+
+
+Read more information about the projects here: https://xintongemilywang.github.io/projects/index.html
 
 # Projects
 Project 1 — Search (search_sol-1.zip)
