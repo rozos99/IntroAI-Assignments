@@ -1,6 +1,7 @@
 # IntroAI-Assignments
 A list of projects that I worked on for my Intro to Ai class at Rutgers
 
+# Projects
 Project 1 — Search (search_sol-1.zip)
 search.py implements the four generic search algorithms, all using a (state, path) frontier pattern with a visited set:
 
